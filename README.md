@@ -12,6 +12,7 @@ Sonic Boom's aim is to integrate blockchain into games requiring low ping and re
 ## Why Sonic Boom
 
 There are many SDKs and marketplaces for integrating blockchain into video games, but none of them are complete. Some only manage the marketplace part, others only integrate a custodial wallet, and for most of them the response time is more or less long when the user needs to submit a transaction to the blockchain.
+
 SonicBoom puts an end to all these problems, with a complete sdk that leaves users free to integrate a custodial solution or not, to use our platform to create their tokens/nfts/marketplaces/swap or to use their own contracts, save time during development and above all enjoy ultra-fast response times thanks to Sonic Fantom when interacting with the blockchain, making it transparent to the end user.
 
 ## Architecture
